@@ -1,7 +1,7 @@
 ---
 title: "I'm giving away investment strategy at no costs"
 date: 2017-08-11T10:00:00+07:00
-draft: true
+draft: false
 ---
 
 [Image: https://phaven-prod.s3.amazonaws.com/files/image_part/asset/1935264/_xD8gmJm3yyMnAQdFfOHZvXwdn8/thumb_18057098_1268590863260266_9067358030378183855_n.jpg]
