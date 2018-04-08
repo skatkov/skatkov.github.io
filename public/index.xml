@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2017 10:00:00 +0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;m giving away investment strategy at no costs</title>
+      <link>http://example.org/post/free-investment-advice/</link>
+      <pubDate>Fri, 11 Aug 2017 10:00:00 +0700</pubDate>
+      
+      <guid>http://example.org/post/free-investment-advice/</guid>
+      <description>[Image: https://phaven-prod.s3.amazonaws.com/files/image_part/asset/1935264/_xD8gmJm3yyMnAQdFfOHZvXwdn8/thumb_18057098_1268590863260266_9067358030378183855_n.jpg]
+There have been a lot of fuzz lately about ICO&amp;rsquo;s, some of my friends losing money, other people asking me where to invest to. I&amp;rsquo;m in no way a financial adviser &amp;ndash; I&amp;rsquo;m just a simple computer geek. So take everything I write next with a grain of salt (well, hopefully you treat all information like that). But I will allow myself to turn on my survivorship bias and tell you how i managed not to lose my money and in some cases even multiply them.</description>
+    </item>
+    
+  </channel>
+</rss>
