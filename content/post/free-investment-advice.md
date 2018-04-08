@@ -1,6 +1,6 @@
 ---
 title: "I'm giving away investment strategy at no costs"
-date: 2017-08-11T10:00:00+07:00
+date: 2017-09-11T10:00:00+07:00
 draft: false
 ---
 
