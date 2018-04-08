@@ -1,10 +1,10 @@
 ---
 title: "I'm giving away investment strategy at no costs"
-publishdate: 2017-08-11T10:00:00+07:00
+date: 2017-08-11T10:00:00+07:00
 draft: false
 ---
 
- [Image: https://phaven-prod.s3.amazonaws.com/files/image_part/asset/1935264/_xD8gmJm3yyMnAQdFfOHZvXwdn8/thumb_18057098_1268590863260266_9067358030378183855_n.jpg]
+![Survivorship bias](/images/survivorship_bias.png)
 
 There have been a lot of fuzz lately about ICO's, some of my friends losing money, other people asking me where to invest to. I'm in no way a financial adviser -- I'm just a simple computer geek. So take everything I write next with a grain of salt (well, hopefully you treat all information like that).  But I will allow myself to turn on my survivorship bias and tell you how i managed not to lose my money and in some cases even multiply them.
 

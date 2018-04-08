@@ -1,4 +1,10 @@
 baseURL = "https://peaceful-edison-270270.netlify.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Skylup"
+theme = "journal"
+
+[params]
+	description = "Blog meta description."
+	githubUsername = "skatkov"
+	twitterUsername = "5katkov"
+	tagline = "A dream will always triumph over reality , once it is given a chance..."
